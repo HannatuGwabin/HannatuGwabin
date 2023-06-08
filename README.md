@@ -6,6 +6,5 @@
 - 👯 I am looking to collaborate with businesses, organizations, and individuals to transform and translate data into meaningful insights, and tangible outcomes for business optimization.
 - 🌱 I’m open for Entry Level Data Scientist and Data Analyst roles.
 - 💬 Ask me about data.
-- 📫 How to reach me: [](https://www.linkedin.com/in/hannatugwabin/) [](https://twitter.com/gwahanny)
 - 😄 Fun fact: In my free time, I love watching movies.
 - 😄 Pet name: Hanny
